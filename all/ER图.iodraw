@@ -244,7 +244,7 @@
           <mxGeometry x="634" y="419" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1FWaDywRAdfZ_hPSW7fQ-1" value="患者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="110.5" width="56" height="32" as="geometry" />
+          <mxGeometry x="607" y="110.5" width="56" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1FWaDywRAdfZ_hPSW7fQ-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1FWaDywRAdfZ_hPSW7fQ-3" target="1FWaDywRAdfZ_hPSW7fQ-1">
           <mxGeometry relative="1" as="geometry" />
