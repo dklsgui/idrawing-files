@@ -280,7 +280,7 @@
         <mxCell id="1FWaDywRAdfZ_hPSW7fQ-15" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="177" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1FWaDywRAdfZ_hPSW7fQ-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.504;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1FWaDywRAdfZ_hPSW7fQ-1" target="1FWaDywRAdfZ_hPSW7fQ-15">
+        <mxCell id="1FWaDywRAdfZ_hPSW7fQ-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.504;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="1FWaDywRAdfZ_hPSW7fQ-1" target="1FWaDywRAdfZ_hPSW7fQ-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
