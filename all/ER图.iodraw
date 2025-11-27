@@ -61,7 +61,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h8-HYzOSQpLTv1tVqyk0-25" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="h8-HYzOSQpLTv1tVqyk0-25" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="119" width="56" height="32" as="geometry" />
         </mxCell>
         <mxCell id="h8-HYzOSQpLTv1tVqyk0-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="h8-HYzOSQpLTv1tVqyk0-26" target="h8-HYzOSQpLTv1tVqyk0-25" edge="1">
