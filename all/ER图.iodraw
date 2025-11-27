@@ -280,10 +280,15 @@
         <mxCell id="1FWaDywRAdfZ_hPSW7fQ-15" value="属于" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="177" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1FWaDywRAdfZ_hPSW7fQ-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="1FWaDywRAdfZ_hPSW7fQ-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1FWaDywRAdfZ_hPSW7fQ-15" target="1FWaDywRAdfZ_hPSW7fQ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="387" y="257" as="sourcePoint" />
             <mxPoint x="437" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1FWaDywRAdfZ_hPSW7fQ-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1FWaDywRAdfZ_hPSW7fQ-17">
+          <mxGeometry x="0.0745" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
