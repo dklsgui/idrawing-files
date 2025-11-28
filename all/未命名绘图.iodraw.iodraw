@@ -10,6 +10,12 @@
         <mxCell id="bdic7MxSaLggLQMVd5iN-2" value="影像管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="150" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bdic7MxSaLggLQMVd5iN-3" value="任务管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bdic7MxSaLggLQMVd5iN-4" value="任务管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="240" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
