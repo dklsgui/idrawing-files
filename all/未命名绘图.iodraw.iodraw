@@ -52,8 +52,8 @@
             <mxPoint x="490" y="221" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bdic7MxSaLggLQMVd5iN-16" value="下载影像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="290" width="96" height="40" as="geometry" />
+        <mxCell id="bdic7MxSaLggLQMVd5iN-16" value="创建分割任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="96" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
