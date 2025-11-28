@@ -25,8 +25,8 @@
         <mxCell id="bdic7MxSaLggLQMVd5iN-4" value="影像可视化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bdic7MxSaLggLQMVd5iN-8" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="60" width="140" height="70" as="geometry" />
+        <mxCell id="bdic7MxSaLggLQMVd5iN-8" value="添加患者" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="90" width="96" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
