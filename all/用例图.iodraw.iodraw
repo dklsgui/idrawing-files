@@ -82,19 +82,16 @@
         <mxCell id="bdic7MxSaLggLQMVd5iN-23" value="分割结果可视化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="481" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bdic7MxSaLggLQMVd5iN-25" value="分割结果可视化" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="554" width="96" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="bdic7MxSaLggLQMVd5iN-26" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdic7MxSaLggLQMVd5iN-4" target="bdic7MxSaLggLQMVd5iN-23">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="391" as="sourcePoint" />
             <mxPoint x="490" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bdic7MxSaLggLQMVd5iN-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdic7MxSaLggLQMVd5iN-4" target="bdic7MxSaLggLQMVd5iN-25">
+        <mxCell id="bdic7MxSaLggLQMVd5iN-27" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bdic7MxSaLggLQMVd5iN-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="330" y="391" as="sourcePoint" />
-            <mxPoint x="490" y="391" as="targetPoint" />
+            <mxPoint x="440" y="574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
